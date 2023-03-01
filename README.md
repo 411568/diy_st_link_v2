@@ -1,1 +1,1 @@
-Project description will be available on my [website](411568.github.io).
+Project description will be available on my [website](https://411568.github.io/projects/).
