@@ -12,11 +12,11 @@ You may think that the schematics could be easily reverse engineered, but you ca
 
 The schematic and PCB were both designed using KiCAD 6.0
 
-![Schematic kicad](/assets/images/st_link/schematic.png)
+![Schematic kicad](/images/schematic.png)
 
-![PCB kicad](/assets/images/st_link/pcb.png)
+![PCB kicad](/images/pcb.png)
 
-![3d view](/assets/images/st_link/3dview.png)
+![3d view](/images/3dview.png)
 
 <h2>💻 Parts list</h2>
 
@@ -42,7 +42,7 @@ The schematic and PCB were both designed using KiCAD 6.0
 
 <h2>📝 Assembled project</h2>
 
-![st link photo](/assets/images/st_link/assembled.jpg)
+![st link photo](/images/assembled.jpg)
 
 
 <h2>🛡️ License:</h2>
